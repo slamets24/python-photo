@@ -1,0 +1,7 @@
+# noted tatacara install
+# python -m venv env
+# pip install mysqlx-connector-python
+# pip install python-dotenv (untuk membuat file env keknya)
+# pip install flask (package)
+# pip install face_recognition
+# pip install mysql-connector-python
